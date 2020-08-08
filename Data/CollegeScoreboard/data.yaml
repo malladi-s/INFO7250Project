@@ -1,8 +1,7 @@
 STABBR, ZIP, UGDS, UG12MN
 5     , 6  , 290 , 1979
 
-
-ALIAS
+ALIAS, RET_FT4,	RET_FTL4,	RET_PT4,	RET_PTL4
 ---
 version: Mar05-2020-03-05-17:54-0400
 api: schools
